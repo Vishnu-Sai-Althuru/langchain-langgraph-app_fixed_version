@@ -1,0 +1,3 @@
+RAG Overview
+
+RAG combines retrieval with generation. Documents are split, embedded, and stored in vector databases. At query time, relevant chunks are retrieved and injected into the LLM prompt.

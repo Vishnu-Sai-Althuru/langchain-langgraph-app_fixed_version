@@ -1,0 +1,15 @@
+# Python
+__pycache__/
+*.pyc
+
+# Virtual env
+venv/
+
+# Databases
+*.db
+
+# Output files
+*.json
+
+# OS files
+.DS_Store
